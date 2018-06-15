@@ -21,6 +21,12 @@ Strategy car
 : [https://strategycar.com/show/](https://strategycar.com/show/)
 : Explores the big and small ways the web touches the world and the people in it.
 
+Tails from the Dark Dragons Inn
+: [https://tailsfromthedarkdragonsinn.co.uk/get-more/]
+: Tails from The Dark Dragons Inn is a long-form, serialised, high-fantasy, improv fiction podcast driven at its core by tabletop role-play.
+: At present, a minimal number of episodes are available as transcripts, however, all existing episodes are being transcribed and entire first season is estimated to be completed by mid-July. All new episodes being transcribed and released within one week of audio release.
+: Website intended to be accessible but would welcome any feedback from users who have issues on contact(at)tailsfromthedarkdragonsinn(dot)co(dot)uk
+
 The A11y Rules Podcast
 : [https://a11yrules.com](https://a11yrules.com)
 : Nic Steenhout leads conversations around web accessibility.
